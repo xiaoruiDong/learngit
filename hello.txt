@@ -1,1 +1,3 @@
-hello hello 
+hello hello
+I am learning the basic functions of Git.
+I just found it very useful. 
